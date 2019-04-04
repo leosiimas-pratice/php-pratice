@@ -1,0 +1,16 @@
+{
+    "name": "leosiimas/composer",
+    "description": "Pratice Composer PHP 7",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonardo Abreu",
+            "email": "abreu.leo@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
